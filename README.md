@@ -1,4 +1,4 @@
-[![MasterHead]https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15637256-coding%2Fattachments%2F7428659%3Fmode%3Dmedia&psig=AOvVaw1ht4o_SjLxYX3jG4aqbqMw&ust=1683207659826000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDWjKej2f4CFQAAAAAdAAAAABAP"]
+[![MasterHead](https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media)]
 
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
