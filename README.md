@@ -1,13 +1,10 @@
-<img
-  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15637256-coding%2Fattachments%2F7428659%3Fmode%3Dmedia&psig=AOvVaw1ht4o_SjLxYX3jG4aqbqMw&ust=1683207659826000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDWjKej2f4CFQAAAAAdAAAAABAP"
-  alt=""
-/>
+[![MasterHead]https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15637256-coding%2Fattachments%2F7428659%3Fmode%3Dmedia&psig=AOvVaw1ht4o_SjLxYX3jG4aqbqMw&ust=1683207659826000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDWjKej2f4CFQAAAAAdAAAAABAP"]
+
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img
-  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-animation--346425396346037683%2F&psig=AOvVaw3mt5NY9YmNo0hWO9AnJuzY&ust=1683208077435000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPj7nu6k2f4CFQAAAAAdAAAAABAJ"
-  alt=""
-/>
+<img align="right" />
+src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-animation--346425396346037683%2F&psig=AOvVaw3mt5NY9YmNo0hWO9AnJuzY&ust=1683208077435000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPj7nu6k2f4CFQAAAAAdAAAAABAJ"
+alt="" />
 
 <p align="left">
   <img
