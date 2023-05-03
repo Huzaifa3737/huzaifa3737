@@ -1,10 +1,6 @@
-[![MasterHead](https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media)]
-
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" />
-src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-animation--346425396346037683%2F&psig=AOvVaw3mt5NY9YmNo0hWO9AnJuzY&ust=1683208077435000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPj7nu6k2f4CFQAAAAAdAAAAABAJ"
-alt="" />
+
 
 <p align="left">
   <img
